@@ -11,11 +11,6 @@ It supports student & course management, grade assignment, academic report gener
 - [Tech stack](#tech-stack)
 - [Prerequisites](#prerequisites)
 - [Quick start (run locally)](#quick-start-run-locally)
-- [Running tests](#running-tests)
-- [Project structure](#project-structure)
-- [Data & serialization](#data--serialization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
