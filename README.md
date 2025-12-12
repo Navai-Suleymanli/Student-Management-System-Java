@@ -87,37 +87,3 @@ Student-Management-System-Java/
 Data & serialization
 The app uses Java’s built-in object serialization.
 university_data.ser is provided as sample data that the app can load.
-
-⚠️ Note: Serialized files are binary and not human-readable. Back up data if modifying.
-
-Contributing
-Feel free to contribute!
-
-Open an issue to discuss improvements
-
-Create a branch for features or bug fixes
-
-Add/update tests for any logic changes
-
-Keep functionality separated following the MVC structure
-
-TODO ideas
-Add Maven/Gradle for easier builds
-
-Add CSV/PDF export for reports
-
-Replace serialization with JSON or an embedded database (H2/SQLite)
-
-License
-This project currently has no license.
-To allow others to use or contribute, consider adding one (MIT, Apache-2.0, GPL, etc.).
-
-sql
-Copy code
-
-If you want, I can also:
-✅ Add badges (build, license, Java version)  
-✅ Add a shorter/cleaner version  
-✅ Add an MIT license file  
-
-Just tell me!
